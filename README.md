@@ -2,7 +2,7 @@
 
 ![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Abdul+Majeed;ERP+%26+SaaS+Systems+Engineer;Laravel+%C2%B7+Next.js+%C2%B7+React+Native)
 
-[![Upwork](https://img.shields.io/badge/Upwork-100%25%20Job%20Success-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a7ef3a7e5b3a73a9)
+[![Upwork](https://img.shields.io/badge/Upwork-100%25%20Job%20Success-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011962668139907c9c)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-majeed-ansari)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulmajeed31136@gmail.com)
@@ -140,7 +140,7 @@ A full-scale ERP platform built end-to-end — currently live for real clients m
 
 If you're building a SaaS platform, need a business ERP, or want to automate your operations — let's talk.
 
-[![Hire on Upwork](https://img.shields.io/badge/Hire%20Me%20on%20Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a7ef3a7e5b3a73a9)
+[![Hire on Upwork](https://img.shields.io/badge/Hire%20Me%20on%20Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011962668139907c9c)
 [![Send Email](https://img.shields.io/badge/Send%20an%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulmajeed31136@gmail.com)
 
 </div>
