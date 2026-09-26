@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Abdul+Majeed;ERP+%26+SaaS+Systems+Engineer;Laravel+%C2%B7+Next.js+%C2%B7+React+Native)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdul%20Majeed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ERP%20%26%20SaaS%20Architect%20%7C%20Laravel%20%C2%B7%20Next.js%20%C2%B7%20React%20Native&descAlignY=58&descSize=18&descColor=a78bfa)
 
-[![Upwork](https://img.shields.io/badge/Upwork-100%25%20Job%20Success-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/abdulmajeed)
+[![Upwork](https://img.shields.io/badge/Upwork-100%25%20Job%20Success-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a7ef3a7e5b3a73a9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-majeed-ansari)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulmajeed31136@gmail.com)
@@ -122,11 +122,11 @@ A full-scale ERP platform built end-to-end — currently live for real clients m
 
 <div align="center">
 
-![Abdul Majeed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulmajeed1156&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmajeed1156&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=abdulmajeed1156&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=abdulmajeed1156&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulmajeed1156&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff)
 
 </div>
 
@@ -140,7 +140,7 @@ A full-scale ERP platform built end-to-end — currently live for real clients m
 
 If you're building a SaaS platform, need a business ERP, or want to automate your operations — let's talk.
 
-[![Hire on Upwork](https://img.shields.io/badge/Hire%20Me%20on%20Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011962668139907c9c?mp_source=share)
+[![Hire on Upwork](https://img.shields.io/badge/Hire%20Me%20on%20Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a7ef3a7e5b3a73a9)
 [![Send Email](https://img.shields.io/badge/Send%20an%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulmajeed31136@gmail.com)
 
 </div>
