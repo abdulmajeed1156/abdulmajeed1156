@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdul%20Majeed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ERP%20%26%20SaaS%20Architect%20%7C%20Laravel%20%C2%B7%20Next.js%20%C2%B7%20React%20Native&descAlignY=58&descSize=18&descColor=a78bfa)
+![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Abdul+Majeed;ERP+%26+SaaS+Systems+Engineer;Laravel+%C2%B7+Next.js+%C2%B7+React+Native)
 
 [![Upwork](https://img.shields.io/badge/Upwork-100%25%20Job%20Success-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/abdulmajeed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdul-majeed-ansari)
