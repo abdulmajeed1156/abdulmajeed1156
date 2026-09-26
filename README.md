@@ -14,7 +14,7 @@
 ```typescript
 const abdulMajeed = {
   title:          "ERP & SaaS Systems Engineer",
-  location:       "Lahore, Pakistan 🇵🇰",
+  location:       "Karachi, Pakistan 🇵🇰",
   
   expertise:      [
                     "Multi-Tenant SaaS Architecture",
